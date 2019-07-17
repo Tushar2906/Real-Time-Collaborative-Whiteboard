@@ -2,7 +2,7 @@
 
 Created a Collaborative WhiteBoard Using OpenGL and socket Programming in C.
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 
 Usage
